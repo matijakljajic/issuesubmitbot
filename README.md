@@ -1,5 +1,5 @@
 # Issue Submit Bot
-Making issue submitting on GitHub easier through the use of a bot which would act as a "middle-man" for submitting issues.
+Making issue submitting on GitHub easier through the use of a bot which acts as a "middle-man" for submitting issues.
 
 ## Perks that come with the bot:
 People who don't want to make a GitHub account can now post issues no problem.
