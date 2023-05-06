@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/matijakljajic/issuesubmitbot/main/logo.png" width="35px"> Issue Submit Bot
+# <img src="https://raw.githubusercontent.com/matijakljajic/issuesubmitbot/main/logo.png" width="28px"> Issue Submit Bot
 Facilitating the submission of issues on GitHub by establishing a seamless connection between the end-user and the platform itself.
 
 By providing a custom form that is specific to the user's program, this program enables the end-user to submit a GitHub issue swiftly and conveniently. This process is particularly useful for individuals who do not use GitHub and for those who wish to remain anonymous.
